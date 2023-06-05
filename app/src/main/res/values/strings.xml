@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="icon">Icon</string>
+    <string name="gptdroid">ChatGPT For Android</string>
+    <string name="exit_app">exit app</string>
+    <string name="closed">the chat window has been closed to reopen the chat window please restart the app</string>
+    <string name="err_browser">you do not have a functioning web browser installed</string>
+</resources>
